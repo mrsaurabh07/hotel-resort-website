@@ -1,0 +1,63 @@
+.upar{
+    margin-top: -250px;
+}
+.hell{
+    background-color: #b3b6b7;
+}
+.dropdown:hover .dropdown-menu{
+    display: block !important;
+}
+.hove a:hover{
+    color: pink;
+}
+.five{
+    text-align: justify;
+}
+
+.trans{
+    transform: translateY(-45px);
+}
+.paint h1{
+    color: #deb665 !important;
+}
+.p1{
+    text-align: justify;
+}
+.paint1{
+    color: #deb665 !important;
+}
+.cnge:hover{
+    background-color: pink;
+}
+.cnge1:hover{
+    background-color: rebeccapurple;
+}
+.cnge2:hover{
+    background-color: mediumseagreen;
+}
+.khicho{
+    margin-left: 450px;
+}
+.padd{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.upp{
+    margin: -35px;
+}
+.rcb{
+    transform: translateY(-350px);
+}
+.rcb img{
+    border-radius: 23px;
+}
+.csk{
+    transform: translateY(-160px);
+}
+.rr{
+    transform: translateY(-200px);
+}
+.kkr{
+    margin-left: 420px;
+    color: #deb665;
+}
